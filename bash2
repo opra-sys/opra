@@ -1,0 +1,2 @@
+echo "<!DOCTYPE html><html><body><h1>Hello, Github Pages!</h1></body></html" > index.html
+echo "// app.js: client-side JS here" > app.js
